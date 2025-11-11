@@ -29,27 +29,27 @@ A clean and modern ML-powered app to predict the probability of heart disease ba
 
 ## 📁 Project Structure
 
+```
 heart_disease_prediction/
 │
 ├── app/
-│ └── app.py
+│   └── app.py
 │
 ├── src/
-│ ├── train_model.py
-│ ├── predict.py
-│ └── utils.py
+│   ├── train_model.py
+│   ├── predict.py
+│   └── utils.py
 │
 ├── data/
-│ └── HeartDiseaseTrain-Test.csv
+│   └── HeartDiseaseTrain-Test.csv
 │
 ├── model/
-│ └── heart_model.pkl
+│   └── heart_model.pkl
 │
 ├── README.md
 └── requirements.txt
+```
 
-yaml
-Copy code
 
 ---
 
